@@ -35,4 +35,4 @@ st.write("Merci d'avoir utilisé notre application Streamlit !")
 
 #4 SLider
 age = st.slider ("Quel age avez-vous ?", 0, 100, 25)
-st.write(f"Vous avez (age) ans.")
+st.write(f"Vous avez {age} ans.")
