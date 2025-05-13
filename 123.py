@@ -1,5 +1,5 @@
 print('Hello Streamlit')
- 
+import panda as pd 
 import streamlit as st
 #cd C:\Users\Admin\Desktop\bigdata\lll.py
 st.write("Hello,world! This is a Streamlit app.")
