@@ -40,5 +40,5 @@ st.write(f"Vous avez {age} ans.")
 import numpy as np
 #Checkbox
 if st.checkbox("Afficher un tableau aléatoire"):
- st.write(pd.Dataframe(np.random.randn(5,3), columns=['A','B','C'])
+ st.write(pd.Dataframe(np.random.randn(5,3), columns=['A','B','C']))
  
